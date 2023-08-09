@@ -9,7 +9,7 @@ $ | `$` | `$` *represent end of the word*
 | | `ll txt$` | *list the files whose name ends with txt*
 `*` | `*` | *in linux `*` means everything present on that location*
 | | `du -sh *` | *calculate size of all folder and file*
-**echo** |  | *date command print user input*
+**echo** |  | *echo command print user input*
 | | `echo "Hi DevOps"`| *print user input as it is*
 **pwd** |  | *pwd command print present working directory*
 **date** |  | *date command print date and time*
